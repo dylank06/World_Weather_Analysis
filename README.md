@@ -16,3 +16,5 @@ Used input statements to retrieve customer weather preferences, then used those 
 
 ### Create a Treavel Itinerary Map
 Used the Google Directions API to create a travel itinerary that showed the route between four cities chosen from the customer’s possible travel destinations. Then, created a marker layer map with a pop-up marker for each city on the itinerary.
+
+![WeatherPy_travel_map_markets copy](https://user-images.githubusercontent.com/16258584/108537051-c298e300-72a2-11eb-920a-35c3188469a0.png)
